@@ -5,6 +5,7 @@
 
 This is a tutorial of learning the basics of Microsoft Azure with Resource Groups and Storage Accounts.
 <h2>Technology Used</h2>
+
   - Microsoft Azure
 
 <h2>Steps</h2>
