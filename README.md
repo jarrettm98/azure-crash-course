@@ -32,7 +32,8 @@ Now, using the resource group previously created, name the Storage Account and c
 
 Now search for and go to Resource Groups. Once the storage group is deployed it should show in the resource group "Overview" tab. Click on the storage account created.
 
-![image](https://github.com/jarrettm98/azure-crash-course/assets/140662793/66a70ef0-bb65-49bb-912b-ac28d9b252b3)
+![InkedStoragegroup_LI](https://github.com/jarrettm98/azure-crash-course/assets/140662793/37d8fa2e-0429-49b9-b828-9e25b534d66e)
+
 
 Create a word document to upload to the storage account and save a message inside. 
 
@@ -40,7 +41,8 @@ Create a word document to upload to the storage account and save a message insid
 
 Click on the "Upload" button. Then either drag the word document into the box or upload it via browsing the Windows Explorer.
 
-![image](https://github.com/jarrettm98/azure-crash-course/assets/140662793/c812c458-0a14-4489-adc1-f11d7d8fd746)
+![Inked258630128-c812c458-0a14-4489-adc1-f11d7d8fd746_LI](https://github.com/jarrettm98/azure-crash-course/assets/140662793/956fe30d-badb-497c-98e3-c3a03f077d7e)
+
 
  Now create a new container in which the file will be held. Now upload the file.
  
@@ -58,5 +60,10 @@ Finally, click "download" The document will be a new document that has been edit
 
 ![image](https://github.com/jarrettm98/azure-crash-course/assets/140662793/44b278cc-4cdf-4636-bb1c-b338d08a39a5)
 
-Remember to DELETE THE RESOURCE GROUP.
+Remember to DELETE THE RESOURCE GROUP. Go to the resource group created and click "Delete resource group." 
 
+![Inkedresourcedelete_LI](https://github.com/jarrettm98/azure-crash-course/assets/140662793/3f1322f3-099f-4246-91ff-63bacca5a681)
+
+Copy the name of the resource group and paste it in the text box at the bottom. Click on Delete in the pop-up box.
+
+![image](https://github.com/jarrettm98/azure-crash-course/assets/140662793/edd903cf-d0dd-45b6-871d-25d9edcadc3b)
