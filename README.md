@@ -4,6 +4,11 @@
 <h1>Azure Crash Course</h1>
 
 This is a tutorial of learning the basics of Microsoft Azure with Resource Groups and Storage Accounts.
+
+<h2>Operating Systems Used</h2>
+
+  - Windows 10
+
 <h2>Technology Used</h2>
 
   - Microsoft Azure
