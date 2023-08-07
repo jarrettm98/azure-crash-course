@@ -3,7 +3,7 @@
 </p>
 <h1>Azure Crash Course</h1>
 
-This is a tutorial of learning the basics of Microsoft Azure with Resource Groups and Storage Accounts.
+This is a tutorial of learning the basics of Microsoft Azure with Resource Groups and Storage Accounts. Make sure to set up an Azure subscription before this tutorial.
 
 <h2>Operating Systems Used</h2>
 
@@ -13,6 +13,10 @@ This is a tutorial of learning the basics of Microsoft Azure with Resource Group
 
   - Microsoft Azure
 
+<h2>Prerequisites</h2>
+
+  - Set up Azure Subscription
+  
 <h2>Steps</h2>
 
 First, go to https://portal.azure.com/#home
